@@ -3,7 +3,7 @@ import React from 'react'
 function CalltoAction() {
   return (
     <>
-     <section className="call-to-action text-white text-center" id="signup" style={{ backgroundImage: "url('public/img/bg-masthead.jpg')" }}>
+     <section className="call-to-action text-white text-center" id="signup" style={{ backgroundImage: "url('img/bg-masthead.jpg')" }}>
             <div className="container position-relative">
                 <div className="row justify-content-center">
                     <div className="col-xl-6">

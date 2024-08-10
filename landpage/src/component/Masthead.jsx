@@ -3,7 +3,7 @@ import React from 'react'
 function Masthead() {
   return (
     <>
-     <header className="masthead" style={{ backgroundImage: "url('public/img/bg-masthead.jpg')" }}>
+     <header className="masthead" style={{ backgroundImage: "url('img/bg-masthead.jpg')" }}>
             <div className="container position-relative">
                 <div className="row justify-content-center">
                     <div className="col-xl-6">

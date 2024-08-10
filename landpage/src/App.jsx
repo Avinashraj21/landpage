@@ -8,7 +8,6 @@ import Footer from "./component/Footer"
 
 function App() {
  
-
   return (
     <>
       <Navigation />
@@ -18,8 +17,6 @@ function App() {
       <Testimonials/>
       <CalltoAction/>
       <Footer/>
-
-
     </>
   )
 }
